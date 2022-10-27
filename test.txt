@@ -1,1 +1,0 @@
-This will be our repository for the second Vitznau task, especially for the code part
