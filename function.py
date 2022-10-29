@@ -1,4 +1,4 @@
-def function(a,b,c):
-    res = a*b*c
+def function(a,b,c,d):
+    res = a*b*c*d
     return res
 
