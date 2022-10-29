@@ -1,4 +1,5 @@
 def function(a,b,c):
     res = a*b*c
-    return res
+    res2 = a+b+c
+    return res, res2
 
